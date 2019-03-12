@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mahendra0859%40gmail.com/excel-to-json.git"
+    "url": "git+https://github.com/mahendra0859/excel-to-json.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mahendra0859%40gmail.com/excel-to-json/issues"
+    "url": "https://github.com/mahendra0859/excel-to-json/issues"
   },
-  "homepage": "https://github.com/mahendra0859%40gmail.com/excel-to-json#readme",
+  "homepage": "https://github.com/mahendra0859/excel-to-json#readme",
   "dependencies": {
     "convert-excel-to-json": "^1.6.1"
   }
